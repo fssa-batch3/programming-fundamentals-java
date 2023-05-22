@@ -1,6 +1,6 @@
 package day03;
 
-public class DataConversitionDemo {
+public class DataConversionDemo {
 
 	public static void main(String[] args) {
 
