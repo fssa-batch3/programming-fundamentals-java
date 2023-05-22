@@ -19,18 +19,19 @@
 - **Book Class**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day04/BookDemo.java)
 
 ## Day 5: Objects
-
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day05/README.md)
 - **Book Class w/object**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day05/BookDemo.java)
 - **Example 2**: Link
 
 ## Day 6: String Utilities
-
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day06/README.md)
 - **String Demo**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day06/StringDemo.java)
 - **String Concat**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day06/StringConcatDemo.java)
 - **String Trim**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day06/StringTrimDemo.java)
 - **String Compare**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day06/StringCompareDemo.java)
 
 ## Day 7: Conditional Statements
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day07/README.md)
 - **Conditional Statement Demo - if**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day07/ConditionalStatementDemo.java)
 - **Conditional Statement Demo - if else**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day07/ConditionalStatementDemo2.java)
 - **Conditional Statement Demo - else if**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day07/ConditionalStatementDemo3.java)
@@ -38,6 +39,7 @@
 
 
 ## Day 8: Looping statements
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day08/README.md)
 - **Looping Statement Demo**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day08/LoopingStatmentDemo.java)
 - **Looping Statement Demo 2**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day08/LoopingStatmentDemo2.java)
 - **Looping Statement Demo 3**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day08/LoopingStatmentDemo3.java)

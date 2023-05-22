@@ -7,7 +7,7 @@ public class LoopingStatmentDemo3 {
 		int i = 0;
 
 		do {
-			System.out.println(i);
+			System.out.println("The value of i is:" + i);
 			i++;
 		} while (i <= 10);
 
