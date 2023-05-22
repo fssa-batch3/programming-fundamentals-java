@@ -17,6 +17,7 @@ public class ScannerExceptionHandlingDemo {
 			System.out.println("Invalid age input");
 			e.printStackTrace();
 		}
+		scanner.close();
 
 	}
 

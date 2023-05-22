@@ -10,7 +10,7 @@ public class ScannerDoubleDemo {
 		System.out.println("Enter a your age: ");
 		Double name = scanner.nextDouble();
 		System.out.println("Your age is: " + name);
-
+		scanner.close();
 	}
 
 }

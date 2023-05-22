@@ -1,6 +1,6 @@
 package day12;
 
-public class StringBufferDemo {
+public class StringBuilderDemo {
 
 	public static void main(String[] args) {
     

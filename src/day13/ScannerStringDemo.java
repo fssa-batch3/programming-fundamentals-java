@@ -3,7 +3,7 @@ package day13;
 import java.util.Scanner;
 
 
-public class ScannerDemo {
+public class ScannerStringDemo {
 
 	public static void main(String[] args) {
 
@@ -11,7 +11,8 @@ public class ScannerDemo {
 		System.out.println("Enter a your name: ");
 		String name = scanner.nextLine();
 		System.out.println("Your name is: " + name);
-
+		scanner.close();
+		
 	}
 
 }
