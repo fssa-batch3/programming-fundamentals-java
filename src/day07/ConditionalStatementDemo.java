@@ -4,18 +4,12 @@ public class ConditionalStatementDemo {
 
 	public static void main(String[] args) {
 		
-	    int marks = 45;
-        
-	    System.out.println("Mark is: " + marks);
+	    int marks = 85;
 	    
-        if ( marks >= 50 ) {
-            System.out.println("Passed");
+        if ( marks >= 75 ) {
+            System.out.println("You got an A grade");
         }
-        else
-        {
-            System.out.println("Failed");
-        }
- 
+        
 
 	}
 
