@@ -45,6 +45,7 @@
 - **Looping Statement Demo 3**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day08/LoopingStatmentDemo3.java)
 
 ## Day 9: Arrays
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day09/README.md)
 - **Array Demo**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day09/ArrayDemo.java)
 - **Array Demo 2**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day09/ArrayDemo2.java)
 - **Array Demo 3**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day09/ArrayDemo3.java)
@@ -52,23 +53,28 @@
 
 
 ## Day 10: Exception handling
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day10/README.md)
 - **Exception handling**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day10/ExceptionHandlingDemo.java)
 - **Exception handling 2**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day10/ExceptionHandlingDemo2.java)
 
 ## Day 11: Validation
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day11/README.md)
 - **Number Validation**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day11/NumberValidationDemo.java)
 - **String Validation**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day11/StringValidationDemo.java)
 - **Email Validation**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day11/EmailValidationDemo.java)
 
 
 ## Day 12: Utilities
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/README.md)
 - **Date**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/DateDemo.java)
 - **LocalDate**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/DateDemo2.java)
 - **LocalDateTime**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/DateDemo3.java)
 - **StringBuffer**  [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/StringBufferDemo.java)
 - **StringBuilder** [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/StringBuilderDemo.java)
 
+
 ## Day 13: Scanner
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/README.md)
 - **Scanner - Int**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerIntDemo.java)
 - **Scanner - Double**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerDoubleDemo.java)
 - **Scanner - String**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerStringDemo.java) 
