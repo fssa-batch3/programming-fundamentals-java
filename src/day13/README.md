@@ -1,75 +1,68 @@
-# Java Utilities
+# Scanner
 
-**1. Date and Time**
+The `java.util.Scanner` class is a simple text scanner which can parse primitive types and strings. It can be used to read from input streams like `System.in` (keyboard input), file streams, and so on.
 
-Java provides several classes to work with dates and times, such as `Date`, `LocalDate`, and `LocalDateTime` in the `java.time` package.
-
--   **Date**: This class represents a specific instant in time, with millisecond precision.
+Here's how you can create a `Scanner` object that reads from the keyboard:
 
 ```java
-import java.util.Date;
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Date date = new Date();
-        System.out.println(date.toString());
+        Scanner scanner = new Scanner(System.in);
     }
 }
 ``` 
 
--   **LocalDate**: This class represents a date (year, month, day) in the ISO calendar and can be used to store dates without time.
+**Reading Different Types of Input**
+
+-   **Integer**: Use `nextInt()` method.
 
 ```java
-import java.time.LocalDate;
-
 public class Main {
     public static void main(String[] args) {
-        LocalDate date = LocalDate.now();
-        System.out.println(date.toString());
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter an integer: ");
+        try {
+            int num = scanner.nextInt();
+            System.out.println("You entered: " + num);
+        } catch (Exception e) {
+            System.out.println("Invalid input. Please enter an integer.");
+        }
     }
 }
 ``` 
 
--   **LocalDateTime**: This class represents both date and time (year, month, day, hour, minute, second) without a time zone.
-
+-   **Double**: Use `nextDouble()` method.
 
 ```java
-import java.time.LocalDateTime;
-
 public class Main {
     public static void main(String[] args) {
-        LocalDateTime dateTime = LocalDateTime.now();
-        System.out.println(dateTime.toString());
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a double: ");
+        try {
+            double num = scanner.nextDouble();
+            System.out.println("You entered: " + num);
+        } catch (Exception e) {
+            System.out.println("Invalid input. Please enter a double.");
+        }
     }
 }
 ``` 
 
-**2. StringBuffer and StringBuilder**
-
-`StringBuffer` and `StringBuilder` are used for creating mutable (modifiable) strings. The `StringBuilder` class is faster than `StringBuffer` because it's not thread-safe.
-
--   **StringBuffer**:
+-   **String**: Use `nextLine()` method.
 
 ```java
 public class Main {
     public static void main(String[] args) {
-        StringBuffer buffer = new StringBuffer("Hello");
-        buffer.append(" World");
-        System.out.println(buffer.toString());
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Enter a string: ");
+        String str = scanner.nextLine();
+        System.out.println("You entered: " + str);
     }
 }
 ``` 
 
--   **StringBuilder**:
+In these examples, the `Scanner` object reads input from the keyboard. If the input is not of the expected type (e.g., the user enters a string when an integer is expected), the `nextInt()` and `nextDouble()` methods throw an `InputMismatchException`, which we catch and handle by printing an error message.
 
-```java
-public class Main {
-    public static void main(String[] args) {
-        StringBuilder builder = new StringBuilder("Hello");
-        builder.append(" World");
-        System.out.println(builder.toString());
-    }
-}
-```
-
-In both examples, we create a mutable string with the text "Hello" and then append " World" to it. The advantage of `StringBuffer` and `StringBuilder` over `String` is that they can be modified without creating a new object, which is more efficient.
+Remember to always close the `Scanner` object after use to prevent resource leaks, by calling `scanner.close()`
