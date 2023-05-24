@@ -6,7 +6,7 @@
 
 ## Day 2: Structure of Java Program
 
-- **Example 1**: Link
+- **Notes**: [Link]()
 - **Example 2**: Link
 
 ## Day 3: Datatypes
@@ -43,6 +43,7 @@
 - **Looping Statement Demo**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day08/LoopingStatmentDemo.java)
 - **Looping Statement Demo 2**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day08/LoopingStatmentDemo2.java)
 - **Looping Statement Demo 3**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day08/LoopingStatmentDemo3.java)
+- **Practice**: [Link]()
 
 ## Day 9: Arrays
 - **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day09/README.md)
@@ -52,19 +53,19 @@
 - **Array Demo 4**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day09/ArrayDemo4.java)
 
 
-## Day 10: Exception handling
+## Day 10, 11: Exception handling
 - **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day10/README.md)
 - **Exception handling**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day10/ExceptionHandlingDemo.java)
 - **Exception handling 2**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day10/ExceptionHandlingDemo2.java)
 
-## Day 11: Validation
+## Day 12, 13: Validation
 - **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day11/README.md)
 - **Number Validation**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day11/NumberValidationDemo.java)
 - **String Validation**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day11/StringValidationDemo.java)
 - **Email Validation**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day11/EmailValidationDemo.java)
 
 
-## Day 12: Utilities
+## Day 14: Utilities
 - **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/README.md)
 - **Date**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/DateDemo.java)
 - **LocalDate**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/DateDemo2.java)
@@ -73,16 +74,19 @@
 - **StringBuilder** [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day12/StringBuilderDemo.java)
 
 
-## Day 13: Scanner
+## Day 15: Scanner
 - **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/README.md)
 - **Scanner - Int**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerIntDemo.java)
 - **Scanner - Double**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerDoubleDemo.java)
 - **Scanner - String**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerStringDemo.java) 
 - **Scanner - w/Exception Handling**  [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerExceptionHandlingDemo.java) 
 
-## Day 14: Maven
+## Day 16, 17: Maven
 - **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day14/README.md)
 
 
-## Day 14: JUnit
+## Day 18, 19: JUnit
 - **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day15/README.md)
+
+
+## Day 20, 21: SonarCloud
