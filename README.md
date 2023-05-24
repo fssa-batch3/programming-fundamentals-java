@@ -79,3 +79,10 @@
 - **Scanner - Double**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerDoubleDemo.java)
 - **Scanner - String**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerStringDemo.java) 
 - **Scanner - w/Exception Handling**  [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day13/ScannerExceptionHandlingDemo.java) 
+
+## Day 14: Maven
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day14/README.md)
+
+
+## Day 14: JUnit
+- **Notes**: [Link](https://github.com/suryaumapathy2812/programming-fundamentals-java/blob/main/src/day15/README.md)
