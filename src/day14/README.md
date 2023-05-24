@@ -3,9 +3,9 @@
 #### Step 1: Create Maven Project
 
 * Choose File -> Maven Project
-![image](https://github.com/suryaumapathy2812/programming-fundamentals-java/assets/32648210/994e2ee8-c135-43f5-a532-face073c0ca0)
+* ![image](https://github.com/suryaumapathy2812/programming-fundamentals-java/assets/32648210/994e2ee8-c135-43f5-a532-face073c0ca0) 
 
-* Enter Path Details
+* Select - Create a Simple Project ( for Core Java Projects )
 * ![image](https://github.com/suryaumapathy2812/programming-fundamentals-java/assets/32648210/925aacc9-3545-4568-9206-613b59b0e7dc)
 
 * Enter groupId and artifactId
